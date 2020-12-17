@@ -1,4 +1,8 @@
 FISRT DAY
 dev motified
 try again
-master2
+<<<<<<< HEAD
+master motified
+=======
+master motified
+>>>>>>> featurel
